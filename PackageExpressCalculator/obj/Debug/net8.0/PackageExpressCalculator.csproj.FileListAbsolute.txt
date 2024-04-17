@@ -1,0 +1,14 @@
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\bin\Debug\net8.0\PackageExpressCalculator.exe
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\bin\Debug\net8.0\PackageExpressCalculator.deps.json
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\bin\Debug\net8.0\PackageExpressCalculator.runtimeconfig.json
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\bin\Debug\net8.0\PackageExpressCalculator.dll
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\bin\Debug\net8.0\PackageExpressCalculator.pdb
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.AssemblyInfoInputs.cache
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.AssemblyInfo.cs
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.csproj.CoreCompileInputs.cache
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.dll
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\refint\PackageExpressCalculator.dll
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.pdb
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\PackageExpressCalculator.genruntimeconfig.cache
+C:\Users\burgh\Desktop\PackageExpressCalculator\PackageExpressCalculator\PackageExpressCalculator\obj\Debug\net8.0\ref\PackageExpressCalculator.dll
